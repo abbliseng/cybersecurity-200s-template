@@ -1,5 +1,8 @@
 # [TEMPLATE] Cybersecurity/Cybersäkerhet
 Här är alla instruktioner till momentet plus lite olika resuser. Ni kommer behöva skriva egna anteckningar i en README så antingen döper ni om denna och skapar en egen eller så slänger ni in era anteckningar rakt i denna README. Gör det gärna tydligt då vart era anteckningar är.
+
+[Länk till Github Classroom](https://classroom.github.com/a/-4vRRdBP)
+
 ## Del 1 - Påläsning
 Kommer lite genomgångar men här är en del bra länkar för egen påläsning.
 * [Cybersecurity 101](https://medium.com/edureka/what-is-cybersecurity-778feb0da72)
