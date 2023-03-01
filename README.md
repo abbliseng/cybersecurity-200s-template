@@ -5,6 +5,7 @@ Här är alla instruktioner till momentet plus lite olika resuser. Ni kommer beh
 
 ## Del 1 - Påläsning
 Kommer lite genomgångar men här är en del bra länkar för egen påläsning.
+* [Ethical Hacking in 100 Seconds](https://www.youtube.com/watch?v=v969_M6cWk0)
 * [Cybersecurity 101](https://medium.com/edureka/what-is-cybersecurity-778feb0da72)
 * [Mini kurser](https://www.edureka.co/blog/?utm_source=medium&utm_medium=content-link&utm_campaign=what-is-cybersecurity)
 * [Cybersecurity for small buissnesses](https://www.ftc.gov/system/files/attachments/cybersecurity-small-business/cybersecuirty_sb_factsheets_all.pdf)
